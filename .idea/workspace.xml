@@ -15,7 +15,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ieVMQEQGWUSWkSywke1ORa8fUs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -89,6 +89,8 @@
       <workItem from="1602840280957" duration="25000" />
       <workItem from="1603449592936" duration="363000" />
       <workItem from="1603481532729" duration="347000" />
+      <workItem from="1603578549316" duration="53000" />
+      <workItem from="1604085586700" duration="322000" />
     </task>
     <servers />
   </component>
@@ -100,17 +102,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1603449955546">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1604085896184">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1603449955546" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1604085896184" />
     <state width="1860" height="279" key="GridCell.Tab.0.bottom" timestamp="1602272979341">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -127,9 +131,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1860" height="279" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1602272979341" />
-    <state x="342" y="140" key="new project wizard" timestamp="1602840306684">
+    <state x="342" y="140" key="new project wizard" timestamp="1604085906619">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="342" y="140" key="new project wizard/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1602840306684" />
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1604085906619" />
   </component>
 </project>
